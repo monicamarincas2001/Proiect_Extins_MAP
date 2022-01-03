@@ -11,6 +11,7 @@ import java.time.LocalDateTime;
 import java.util.Objects;
 import java.util.Scanner;
 
+//consola
 public class Console {
     private final UtilizatorService utilizatorService;
     private final PrietenieService prietenieService;
